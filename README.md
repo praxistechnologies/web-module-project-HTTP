@@ -14,7 +14,7 @@ CRUD applications are the foundation of most web applications. Being able to man
 
 ***Make sure to complete your tasks one at a time and complete test each task before proceeding forward.***
 
-## Instructions
+## Instructions - DONE
 ### Task 1: Project Set Up
 * [ ] Create a forked copy of this project.
 * [ ] Clone your OWN version of the repository in your terminal
